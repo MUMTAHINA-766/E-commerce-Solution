@@ -1,4 +1,4 @@
-<h1>EasyBuyOnline Supershop</h1>
+<h1 style="color:red">EasyBuyOnline Supershop</h1>
 
 <h3>ER Diagram </h3>
 

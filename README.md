@@ -1,4 +1,4 @@
-EasyBuyOnline Supershop
+<h1>EasyBuyOnline Supershop</h1>
 
 <h3>ER Diagram </h3>
 
